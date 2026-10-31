@@ -71,11 +71,21 @@ def main() -> None:
     ]))
 
     verdict = (f"{issues} exceptions to resolve before the next payment run", "warn") if issues else ("No exceptions: ready for payment run", "ok")
+    takeaways = [
+        f"Committed spend is {idr(a['committed'])}, {utilisation:.0%} of the {idr(a['budget'])} budget.",
+        f"{a['first_time_match_rate']:.0%} of invoices matched their purchase order and goods receipt first time, and {a['on_time_payment_rate']:.0%} of suppliers were paid on time.",
+    ]
+    if a["duplicates"]:
+        takeaways.append(f"{len(a['duplicates'])} duplicate invoice{'s' if len(a['duplicates']) != 1 else ''} worth {idr(sum(d['amount'] for d in a['duplicates']))} "
+                         "would be paid twice if not blocked before the next payment run.")
+    if a["maverick"] or a["splits"]:
+        takeaways.append(f"Policy breaches: {len(a['maverick'])} purchase{'s' if len(a['maverick']) != 1 else ''} made before a purchase order existed "
+                         f"and {len(a['splits'])} order{'s' if len(a['splits']) != 1 else ''} split to stay under the approval limit.")
     rk.write(str(ROOT / "site" / "index.html"), rk.page(
         title="Procure-to-Pay Analytics",
         eyebrow="SAP Consultant · MM / FI",
         summary="Procure-to-pay KPIs and exception detection on SAP S/4HANA-shaped data for the programme's purchases: HSM appliances, licences, consulting and security testing.",
-        body=body, repo="sap-p2p-analytics", verdict=verdict,
+        body=body, repo="sap-p2p-analytics", verdict=verdict, takeaways=takeaways,
     ))
     print(f"dashboard built: {issues} exceptions")
 
