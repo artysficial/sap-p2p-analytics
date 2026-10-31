@@ -1,0 +1,145 @@
+EBELN,EBELP,MATNR,TXZ01,MENGE,NETPR,MATKL
+4500001201,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",9,39722000,Payment cards
+4500001202,10,SVC-ARCH,Solution architecture (man-day),2,9726000,Consulting
+4500001203,10,SVC-KC,Key ceremony facilitation (day),6,25541000,Consulting
+4500001204,10,HSM-LIC,HSM performance licence,8,189233000,HSM hardware
+4500001205,10,HSM-LIC,HSM performance licence,10,216336000,HSM hardware
+4500001206,10,TRN-HSM,HSM operator training (seat),9,7764000,Training
+4500001207,10,DC-RACK,Secure rack space (month),12,44143000,Data centre
+4500001208,10,SVC-KC,Key ceremony facilitation (day),4,24499000,Consulting
+4500001209,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",11,40055000,Payment cards
+4500001210,10,DC-RACK,Secure rack space (month),3,44685000,Data centre
+4500001211,10,SVC-ARCH,Solution architecture (man-day),8,10389000,Consulting
+4500001212,10,SVC-ARCH,Solution architecture (man-day),12,10967000,Consulting
+4500001213,10,TRN-HSM,HSM operator training (seat),8,7879000,Training
+4500001214,10,TRN-HSM,HSM operator training (seat),1,7594000,Training
+4500001215,10,SVC-PEN,API penetration test (man-day),9,13958000,Security testing
+4500001216,10,HSM-LIC,HSM performance licence,12,188838000,HSM hardware
+4500001217,10,SVC-KC,Key ceremony facilitation (day),3,26400000,Consulting
+4500001218,10,SVC-PEN,API penetration test (man-day),1,13963000,Security testing
+4500001219,10,LIC-SIEM,SIEM connector licence (annual),5,102375000,Software licences
+4500001220,10,LIC-SIEM,SIEM connector licence (annual),10,103513000,Software licences
+4500001221,10,SVC-PEN,API penetration test (man-day),3,12092000,Security testing
+4500001222,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",11,40170000,Payment cards
+4500001223,10,TRN-HSM,HSM operator training (seat),2,7892000,Training
+4500001224,10,SVC-KC,Key ceremony facilitation (day),8,24724000,Consulting
+4500001225,10,DC-RACK,Secure rack space (month),1,45906000,Data centre
+4500001226,10,SVC-PEN,API penetration test (man-day),1,12720000,Security testing
+4500001227,10,LIC-SIEM,SIEM connector licence (annual),10,98513000,Software licences
+4500001228,10,SVC-PEN,API penetration test (man-day),5,12197000,Security testing
+4500001229,10,DC-RACK,Secure rack space (month),5,44408000,Data centre
+4500001230,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",5,39697000,Payment cards
+4500001231,10,SVC-ARCH,Solution architecture (man-day),6,10145000,Consulting
+4500001232,10,TRN-HSM,HSM operator training (seat),4,8108000,Training
+4500001233,10,SVC-KC,Key ceremony facilitation (day),1,26929000,Consulting
+4500001234,10,DC-RACK,Secure rack space (month),7,43306000,Data centre
+4500001235,10,SVC-PEN,API penetration test (man-day),3,13070000,Security testing
+4500001236,10,SVC-ARCH,Solution architecture (man-day),7,10286000,Consulting
+4500001237,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",9,40800000,Payment cards
+4500001238,10,HSM-LIC,HSM performance licence,8,207386000,HSM hardware
+4500001239,10,TRN-HSM,HSM operator training (seat),5,7848000,Training
+4500001240,10,LIC-SIEM,SIEM connector licence (annual),4,102709000,Software licences
+4500001241,10,TRN-HSM,HSM operator training (seat),4,8075000,Training
+4500001242,10,SVC-KC,Key ceremony facilitation (day),8,26758000,Consulting
+4500001243,10,SVC-KC,Key ceremony facilitation (day),9,26876000,Consulting
+4500001244,10,SVC-KC,Key ceremony facilitation (day),12,24412000,Consulting
+4500001245,10,SVC-PEN,API penetration test (man-day),11,13355000,Security testing
+4500001246,10,SVC-KC,Key ceremony facilitation (day),1,26427000,Consulting
+4500001247,10,SVC-PEN,API penetration test (man-day),12,13289000,Security testing
+4500001248,10,SVC-ARCH,Solution architecture (man-day),9,9560000,Consulting
+4500001249,10,HSM-APPL,"Payment HSM appliance, dual PSU",1,1350522000,HSM hardware
+4500001250,10,SVC-PEN,API penetration test (man-day),2,12668000,Security testing
+4500001251,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",8,38495000,Payment cards
+4500001252,10,DC-RACK,Secure rack space (month),2,45190000,Data centre
+4500001253,10,DC-RACK,Secure rack space (month),6,43321000,Data centre
+4500001254,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",12,41767000,Payment cards
+4500001255,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",7,39096000,Payment cards
+4500001256,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",6,41982000,Payment cards
+4500001257,10,SVC-KC,Key ceremony facilitation (day),12,25348000,Consulting
+4500001258,10,DC-RACK,Secure rack space (month),11,45470000,Data centre
+4500001259,10,SVC-PEN,API penetration test (man-day),7,13483000,Security testing
+4500001260,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",8,41487000,Payment cards
+4500001261,10,LIC-APIGW,API gateway licence (annual),8,326873000,Software licences
+4500001262,10,SVC-PEN,API penetration test (man-day),1,12195000,Security testing
+4500001263,10,SVC-PEN,API penetration test (man-day),12,13068000,Security testing
+4500001264,10,HSM-LIC,HSM performance licence,3,216060000,HSM hardware
+4500001265,10,LIC-APIGW,API gateway licence (annual),8,320716000,Software licences
+4500001266,10,HSM-LIC,HSM performance licence,8,193024000,HSM hardware
+4500001267,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",12,40643000,Payment cards
+4500001268,10,SVC-ARCH,Solution architecture (man-day),9,10569000,Consulting
+4500001269,10,SVC-ARCH,Solution architecture (man-day),3,10027000,Consulting
+4500001270,10,SVC-ARCH,Solution architecture (man-day),4,9929000,Consulting
+4500001271,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",9,40779000,Payment cards
+4500001272,10,LIC-SIEM,SIEM connector licence (annual),10,104032000,Software licences
+4500001273,10,DC-RACK,Secure rack space (month),5,45854000,Data centre
+4500001274,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",12,38219000,Payment cards
+4500001275,10,LIC-SIEM,SIEM connector licence (annual),9,96507000,Software licences
+4500001276,10,TRN-HSM,HSM operator training (seat),9,7541000,Training
+4500001277,10,SVC-PEN,API penetration test (man-day),4,13779000,Security testing
+4500001278,10,DC-RACK,Secure rack space (month),4,44710000,Data centre
+4500001279,10,LIC-APIGW,API gateway licence (annual),5,324433000,Software licences
+4500001280,10,DC-RACK,Secure rack space (month),2,43449000,Data centre
+4500001281,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",7,38124000,Payment cards
+4500001282,10,DC-RACK,Secure rack space (month),8,44134000,Data centre
+4500001283,10,HSM-APPL,"Payment HSM appliance, dual PSU",1,1448933000,HSM hardware
+4500001284,10,SVC-PEN,API penetration test (man-day),11,12161000,Security testing
+4500001285,10,DC-RACK,Secure rack space (month),10,42171000,Data centre
+4500001286,10,SVC-KC,Key ceremony facilitation (day),8,26215000,Consulting
+4500001287,10,HSM-APPL,"Payment HSM appliance, dual PSU",1,1362108000,HSM hardware
+4500001288,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",3,39257000,Payment cards
+4500001289,10,SVC-KC,Key ceremony facilitation (day),3,25796000,Consulting
+4500001290,10,SVC-ARCH,Solution architecture (man-day),4,10287000,Consulting
+4500001291,10,SVC-KC,Key ceremony facilitation (day),10,24107000,Consulting
+4500001292,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",4,40402000,Payment cards
+4500001293,10,DC-RACK,Secure rack space (month),1,43075000,Data centre
+4500001294,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",12,41449000,Payment cards
+4500001295,10,SVC-PEN,API penetration test (man-day),12,12956000,Security testing
+4500001296,10,LIC-APIGW,API gateway licence (annual),5,312984000,Software licences
+4500001297,10,HSM-APPL,"Payment HSM appliance, dual PSU",1,1493269000,HSM hardware
+4500001298,10,SVC-PEN,API penetration test (man-day),1,13109000,Security testing
+4500001299,10,HSM-APPL,"Payment HSM appliance, dual PSU",1,1465640000,HSM hardware
+4500001300,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",6,39637000,Payment cards
+4500001301,10,HSM-LIC,HSM performance licence,10,213870000,HSM hardware
+4500001302,10,DC-RACK,Secure rack space (month),9,42472000,Data centre
+4500001303,10,LIC-APIGW,API gateway licence (annual),11,329374000,Software licences
+4500001304,10,SVC-ARCH,Solution architecture (man-day),5,10717000,Consulting
+4500001305,10,SVC-ARCH,Solution architecture (man-day),1,10201000,Consulting
+4500001306,10,HSM-LIC,HSM performance licence,3,219800000,HSM hardware
+4500001307,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",8,40492000,Payment cards
+4500001308,10,SVC-PEN,API penetration test (man-day),6,12908000,Security testing
+4500001309,10,DC-RACK,Secure rack space (month),8,43214000,Data centre
+4500001310,10,HSM-APPL,"Payment HSM appliance, dual PSU",1,1427192000,HSM hardware
+4500001311,10,DC-RACK,Secure rack space (month),9,43616000,Data centre
+4500001312,10,SVC-PEN,API penetration test (man-day),5,12711000,Security testing
+4500001313,10,HSM-APPL,"Payment HSM appliance, dual PSU",1,1382777000,HSM hardware
+4500001314,10,HSM-LIC,HSM performance licence,1,219100000,HSM hardware
+4500001315,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",9,39434000,Payment cards
+4500001316,10,SVC-KC,Key ceremony facilitation (day),10,25491000,Consulting
+4500001317,10,TRN-HSM,HSM operator training (seat),10,7903000,Training
+4500001318,10,SVC-ARCH,Solution architecture (man-day),2,9945000,Consulting
+4500001319,10,LIC-SIEM,SIEM connector licence (annual),1,96584000,Software licences
+4500001320,10,LIC-SIEM,SIEM connector licence (annual),2,98124000,Software licences
+4500001321,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",2,41760000,Payment cards
+4500001322,10,SVC-ARCH,Solution architecture (man-day),8,9625000,Consulting
+4500001323,10,SVC-KC,Key ceremony facilitation (day),9,25016000,Consulting
+4500001324,10,TRN-HSM,HSM operator training (seat),7,8304000,Training
+4500001325,10,SVC-ARCH,Solution architecture (man-day),7,10759000,Consulting
+4500001326,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",1,40275000,Payment cards
+4500001327,10,SVC-KC,Key ceremony facilitation (day),10,25809000,Consulting
+4500001328,10,SVC-ARCH,Solution architecture (man-day),4,10730000,Consulting
+4500001329,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",10,39541000,Payment cards
+4500001330,10,SVC-KC,Key ceremony facilitation (day),7,25467000,Consulting
+4500001331,10,DC-RACK,Secure rack space (month),1,45537000,Data centre
+4500001332,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",5,39572000,Payment cards
+4500001333,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",10,40210000,Payment cards
+4500001334,10,SVC-PEN,API penetration test (man-day),3,12221000,Security testing
+4500001335,10,DC-RACK,Secure rack space (month),1,42560000,Data centre
+4500001336,10,SVC-KC,Key ceremony facilitation (day),11,25807000,Consulting
+4500001337,10,CARD-EMV,"EMV chip card stock (1,000 pcs)",8,41955000,Payment cards
+4500001338,10,LIC-SIEM,SIEM connector licence (annual),2,97109000,Software licences
+4500001339,10,LIC-SIEM,SIEM connector licence (annual),5,95508000,Software licences
+4500001340,10,SVC-ARCH,Solution architecture (man-day),1,10251000,Consulting
+4500001341,10,SVC-ARCH,Solution architecture (man-day),24,10300000,Consulting
+4500001342,10,SVC-ARCH,Solution architecture (man-day),24,10300000,Consulting
+4500001343,10,SVC-ARCH,Solution architecture (man-day),24,10300000,Consulting
+4500001344,10,SVC-ARCH,Solution architecture (man-day),24,10300000,Consulting
