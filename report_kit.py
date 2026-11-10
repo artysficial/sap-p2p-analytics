@@ -10,6 +10,7 @@ build pages with `page(...)` and the helpers below.
 from __future__ import annotations
 
 import html
+import json
 import math
 import re
 from datetime import datetime, timezone
@@ -298,6 +299,16 @@ def page(*, title: str, eyebrow: str, summary: str, body: str, repo: str, verdic
 <meta name="color-scheme" content="light dark">
 <title>{esc(title)} · Rahmadani Tyas Ningrum</title>
 <meta name="description" content="{esc(summary)}">
+<meta name="author" content="Rahmadani Tyas Ningrum">
+<link rel="canonical" href="{PORTFOLIO}{repo}/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Rahmadani Tyas Ningrum">
+<meta property="og:title" content="{esc(title)} · Rahmadani Tyas Ningrum">
+<meta property="og:description" content="{esc(summary)}">
+<meta property="og:url" content="{PORTFOLIO}{repo}/">
+<meta property="og:image" content="{PORTFOLIO}assets/images/og-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{{"@context":"https://schema.org","@type":"WebPage","name":{json.dumps(title + " · Rahmadani Tyas Ningrum")},"url":"{PORTFOLIO}{repo}/","description":{json.dumps(summary)},"author":{{"@type":"Person","@id":"{PORTFOLIO}#person","name":"Rahmadani Tyas Ningrum","url":"{PORTFOLIO}"}},"isPartOf":{{"@id":"{PORTFOLIO}#website"}}}}</script>
 <script>(function(){{var t;try{{t=localStorage.getItem("theme")}}catch(e){{}}if(t!=="light"&&t!=="dark")t=matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light";document.documentElement.setAttribute("data-theme",t)}})();</script>
 <style>{CSS}</style>
 </head>
